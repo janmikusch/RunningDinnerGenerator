@@ -1,0 +1,8 @@
+Erster gang bei Team:"[TEAM_VORSPEISE_NAME]" in Raum "[TEAM_VORSPEISE_NUMMER]"
+
+Zweiter gang bei Team:"[TEAM_MAIN_NAME]" in Raim "[TEAM_MAIN_NUMMER]"
+
+Dritter gang bei Team:"[TEAM_DESSERT_NAME]" in Raim "[TEAM_DESSERT_NUMMER]"
+
+Bitte achtet beim kochen auf dei Wünsche eurer Gäste: 
+[ZUSATZINFO]

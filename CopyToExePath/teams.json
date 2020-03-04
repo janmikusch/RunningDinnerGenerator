@@ -1,0 +1,83 @@
+﻿[
+  {
+    "name": "Team1",
+    "roomNumber": "1",
+    "email": "mail@team1",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  },
+  {
+    "name": "Team2",
+    "roomNumber": "2",
+    "email": "mail@team2",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  },
+  {
+    "name": "Team3",
+    "roomNumber": "3",
+    "email": "mail@team3",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  },
+  {
+    "name": "Team4",
+    "roomNumber": "4",
+    "email": "mail@team4",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  },
+  {
+    "name": "Team5",
+    "roomNumber": "5",
+    "email": "mail@team5",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  },
+  {
+    "name": "Team6",
+    "roomNumber": "6",
+    "email": "mail@team6",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  },
+  {
+    "name": "Team7",
+    "roomNumber": "7",
+    "email": "mail@team7",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  },
+  {
+    "name": "Team8",
+    "roomNumber": "8",
+    "email": "mail@team8",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  },
+  {
+    "name": "Team9",
+    "roomNumber": "9",
+    "email": "mail@team9",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  }
+]

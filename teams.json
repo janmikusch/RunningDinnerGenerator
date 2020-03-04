@@ -1,0 +1,83 @@
+﻿[
+  {
+    "name": "Team1",
+    "roomNumber": "1",
+    "email": "mail",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  },
+  {
+    "name": "Team2",
+    "roomNumber": "2",
+    "email": "mail",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  },
+  {
+    "name": "Team3",
+    "roomNumber": "3",
+    "email": "mail",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  },
+  {
+    "name": "Team4",
+    "roomNumber": "4",
+    "email": "mail",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  },
+  {
+    "name": "Team5",
+    "roomNumber": "5",
+    "email": "mail",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  },
+  {
+    "name": "Team6",
+    "roomNumber": "6",
+    "email": "mail",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  },
+  {
+    "name": "Team7",
+    "roomNumber": "7",
+    "email": "mail",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  },
+  {
+    "name": "Team8",
+    "roomNumber": "8",
+    "email": "mail",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  },
+  {
+    "name": "Team9",
+    "roomNumber": "9",
+    "email": "mail",
+    "phonenumber": "phonenumber",
+    "teammember1": "member1",
+    "teammember2": "member2",
+    "additionalFoodInfo": "additionalFoodInfo"
+  }
+]
